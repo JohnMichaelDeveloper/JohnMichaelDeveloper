@@ -1,7 +1,8 @@
 ## Olá! Seja muito Bem Vindo(a)!
-<div>
+<!-- <div>
   <img align="height" alt="John-Michael" height="400" width="850" src="https://media.discordapp.net/attachments/856310175161778188/874467730017902602/Programando.gif?width=703&height=411"/>
-</div><br><br>
+</div>
+<br><br> -->
  <div>
   <a href="https://github.com/JohnMichaelDeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnMichaelDeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
