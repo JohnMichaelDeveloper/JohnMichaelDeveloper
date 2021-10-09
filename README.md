@@ -1,8 +1,18 @@
 ## Olá! Seja muito Bem Vindo(a)!
-<!-- <div>
-  <img align="height" alt="John-Michael" height="400" width="850" src="https://media.discordapp.net/attachments/856310175161778188/874467730017902602/Programando.gif?width=703&height=411"/>
+
+<div>
+<h1>Um estudante  e um apaixonado programação do Brasil, Rio de Janeiro.</h1>
+  <h2>Falando sobre Coisas Pessoais:</h2>
+<p>👨🏽‍💻 Sou um Engenheiro de Software Associado na Presidio ;
+💼Atualmente estou cursando o último ano do bacharelado em Tecnologia da Informação na VCET ;
+🤔 Meus interesses são com desenvolvimento de aplicativos da web 🖥️, Ciência de dados 📊, Grilo 🏏, Espaço 🚀, etc ..;
+🎬 Eu amo assistir filmes e sou um grande fã de MCU 
+💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
+📫Envie um e-mail para kishanlal0725@gmail.com ou envie um ping no LinkedIn para entrar em contato comigo;
+</p>
+<!--   <img align="height" alt="John-Michael" height="400" width="850" src="https://media.discordapp.net/attachments/856310175161778188/874467730017902602/Programando.gif?width=703&height=411"/>  -->
 </div>
-<br><br> -->
+<br><br>
  <div>
   <a href="https://github.com/JohnMichaelDeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnMichaelDeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
