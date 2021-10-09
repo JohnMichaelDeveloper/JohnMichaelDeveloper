@@ -54,7 +54,7 @@
   
   ##
   <div>
-    <h1>Recentemente Participei do Hackthon Recode Pro 2021  </h1>
+    <h1>🏅 Recentemente Participei do Hackthon Recode Pro 2021  </h1>
     <p>Foi uma experiência incrível, criamos um prototipo de aplicativo voltado para PCD. Onde pude experimentar o trabalho em equipe com objetivo de apresentar nossa ideia que  surgiu comproposito de ajudar na locomoção do dia-a-dia de um PCD. Que sofre na espera por transporte público em diversar regiões do Brasil. O aplicativo tras a possibilidade de PCD, solicitar transporte particular onde o motorista é treinado e com veiculo adptado para qualquer necessidade. </p>
   <img align="height" alt="John-Michael" height="350" width="550" src="https://media.discordapp.net/attachments/856310175161778188/874111267013529691/IMG-20210721-WA0020.jpg?width=532&height=376"/>
    </Div>
