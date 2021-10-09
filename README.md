@@ -11,7 +11,7 @@
 <p>👨🏽‍💻 Sou estudante na Recode Pro no curso de Desenvolvedor Fullstack ; <br>
   💼 Trabalhava na área da Construção Civil, Ex-Aluno de Engenharia Civil e Técnico Edificações Formado; <br>
 🤔 Meus interesses são com desenvolvimento de aplicativos da web 🖥️, Mobile 📱, Games 🎮, Robotica 🤖, viajar pelo Mundo ✈️, etc ..;<br>
-🎬 Eu amo assistir filmes e sou um grande fã do MCU, DC Comics Série Velozos e Furiosos; <br>
+🎬 Eu amo assistir filmes e sou um grande fã do MCU, DC Comics e da Série Velozos e Furiosos; <br>
 📫Envie um e-mail para johnfrontend@gmail.com ou envie um ping no LinkedIn para entrar em contato comigo;<br>
 </p>
   <br>
