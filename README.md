@@ -1,5 +1,9 @@
 ## Olá! Seja muito Bem Vindo(a)!
-
+<p>
+  <em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    Um </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">estudante</font></font></b> <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width="20" height="20" style="max-width: 100%;"></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> e um apaixonado </font></font><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">programador</font></font></b> <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> autodidata </font></font><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="35" height="25" style="max-width: 100%;"></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">de Madurai, Índia.
+  </font></font></em>
+ </p>
 <div>
 <h2>Um estudante  e um apaixonado por programação, Brasileiro - Rio de Janeiro.</h2>
   <h2>Falando sobre Coisas Pessoais:</h2>
