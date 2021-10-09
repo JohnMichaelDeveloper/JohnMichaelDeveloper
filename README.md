@@ -12,15 +12,17 @@
 🤔 Meus interesses são com desenvolvimento de aplicativos da web 🖥️, Mobile 📱, Games 🎮, Robotica 🤖, viajar pelo Mundo ✈️, etc ..;<br>
 🎬 Eu amo assistir filmes e sou um grande fã do MCU, DC Comics Série Velozos e Furiosos; <br>
 📫Envie um e-mail para johnfrontend@gmail.com ou envie um ping no LinkedIn para entrar em contato comigo;<br>
-</p><br><br>
-  <h2>⚡ Tecnologias</h2>
-  <h3>Língua :</h3>
-  <p>Java C JavaScript HTML5 CSS3 </p>
-  <br><br>
-  <h3>IDE's:</h3>
-  <p>Visual Studio Code Java Eclipse Node.js </p>
-  <h3>Ferramenta de Nuvem:</h3>
-  <p>GitHub</p>
+</p>
+  <br>
+    <h2>⚡ Tecnologias</h2>
+    <h3>Língua :</h3>
+    <p>Java C JavaScript HTML5 CSS3 </p>
+  <br>
+    <h3>IDE's:</h3>
+    <p>Visual Studio Code Java Eclipse Node.js </p>
+  <br>
+    <h3>Ferramenta de Nuvem:</h3>
+    <p>GitHub</p>
 <!--   <img align="height" alt="John-Michael" height="400" width="850" src="https://media.discordapp.net/attachments/856310175161778188/874467730017902602/Programando.gif?width=703&height=411"/>  -->
 </div>
 <br><br>
