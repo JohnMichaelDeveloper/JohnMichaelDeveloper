@@ -33,8 +33,7 @@
 <!-- <code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/16fccb2de04c31b4fbc7d4034c940f6f2261de35cd7557f393dffd2b9cb3a91a/68747470733a2f2f65752e7377692d70726f6c6f672e6f72672f69636f6e732f737769706c2e706e67"><img height="40" src="https://camo.githubusercontent.com/16fccb2de04c31b4fbc7d4034c940f6f2261de35cd7557f393dffd2b9cb3a91a/68747470733a2f2f65752e7377692d70726f6c6f672e6f72672f69636f6e732f737769706c2e706e67" data-canonical-src="https://eu.swi-prolog.org/icons/swipl.png" style="max-width: 100%;"></a></code></p> -->
   <br>
     <h3>IDE's:</h3>
-  <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visualstudiocode/visualstudiocode.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visualstudiocode/visualstudiocode.png" style="max-width: 100%;"></a></code>
-    <p>Visual Studio Code Java Eclipse Node.js </p>
+      <p>Visual Studio Code Java Eclipse Node.js </p>
   <br>
     <h3>Ferramenta de Nuvem:</h3>
     <p>GitHub</p>
@@ -59,8 +58,8 @@
   <img align="center" alt="John-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="John-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="John-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="John-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="John-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<!--   <img align="center" alt="John-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="John-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   <img align="right" alt="John-Gafanhoto"  height="90" width="200" src="https://media.giphy.com/media/SLBr5yLzocSYw/giphy.gif"/>
   
 </div>
