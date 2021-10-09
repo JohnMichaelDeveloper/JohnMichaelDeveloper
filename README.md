@@ -1,15 +1,21 @@
 ## Olá! Seja muito Bem Vindo(a)!
 
 <div>
-<h1>Um estudante  e um apaixonado programação do Brasil, Rio de Janeiro.</h1>
+<h2>Um estudante  e um apaixonado por programação, Brasileiro - Rio de Janeiro.</h2>
   <h2>Falando sobre Coisas Pessoais:</h2>
-<p>👨🏽‍💻 Sou um Engenheiro de Software Associado na Presidio ;
-💼Atualmente estou cursando o último ano do bacharelado em Tecnologia da Informação na VCET ;
-🤔 Meus interesses são com desenvolvimento de aplicativos da web 🖥️, Ciência de dados 📊, Grilo 🏏, Espaço 🚀, etc ..;
-🎬 Eu amo assistir filmes e sou um grande fã de MCU 
-💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
-📫Envie um e-mail para kishanlal0725@gmail.com ou envie um ping no LinkedIn para entrar em contato comigo;
-</p>
+<p>👨🏽‍💻 Sou estudante na Recode Pro no curso de Desenvolvedor Fullstack ;
+🤔 Meus interesses são com desenvolvimento de aplicativos da web 🖥️, Mobile 📱, Games 🎮, Robotica 🤖, viajar pelo Mundo ✈️, etc ..;
+🎬 Eu amo assistir filmes e sou um grande fã do MCU, DC Comics Série Velozos e Furiosos. 
+📫Envie um e-mail para johnfrontend@gmail.com ou envie um ping no LinkedIn para entrar em contato comigo;
+</p><br><br>
+  <h2>⚡ Tecnologias</h2>
+  <h3>Língua :</h3>
+  <p>Java C JavaScript HTML5 CSS3 </p>
+  <br><br>
+  <h3>IDE's:</h3>
+  <p>Visual Studio Code Java Eclipse Node.js </p>
+  <h3>Ferramenta de Nuvem:</h3>
+  <p>GitHub</p>
 <!--   <img align="height" alt="John-Michael" height="400" width="850" src="https://media.discordapp.net/attachments/856310175161778188/874467730017902602/Programando.gif?width=703&height=411"/>  -->
 </div>
 <br><br>
