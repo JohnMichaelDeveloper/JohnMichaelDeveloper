@@ -9,7 +9,7 @@
 <div>
   <h2>Falando sobre Coisas Pessoais:</h2>
 <p>👨🏽‍💻 Sou estudante na Recode Pro no curso de Desenvolvedor Fullstack e recentemente fui aprovado no curso de Tecnologia de Sistema da Computação para iniciar em 2022 pela UFF; <br>
-  👨‍🎓 Ex-Aluno de Engenharia Civil - 6º Periodo e Técnico Edificações Formado
+  👨‍🎓 Ex-Aluno de Engenharia Civil - 6º Periodo e Técnico Edificações Formado;<br>
   💼 Trabalhava na área da Construção Civil, em obras de terraplenagem, estradas, pontes e veiculo leve sobre trilhos - exemplo: VLT-Rio; <br>
 🤔 Meus interesses são com desenvolvimento de aplicativos da web 🖥️, Mobile 📱, Games 🎮, Robotica 🤖, viajar pelo Mundo ✈️, etc ..;<br>
 🎬 Eu amo assistir filmes e sou um grande fã do MCU, DC Comics, e das Séries Transformers e Velozos e Furiosos; <br>
