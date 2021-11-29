@@ -11,8 +11,8 @@
 <p>👨🏽‍💻 Sou estudante na Recode Pro no curso de Desenvolvedor Fullstack e recentemente fui aprovado no curso de Tecnologia de Sistema da Computação para iniciar em 2022 pela UFF; <br>
   👨‍🎓 Ex-Aluno de Engenharia Civil - 6º Periodo e Técnico Edificações Formado;<br>
   💼 Trabalhava na área da Construção Civil, em obras de terraplenagem, estradas, pontes e veiculo leve sobre trilhos - exemplo: VLT-Rio; <br>
-🤔 Meus interesses são com desenvolvimento de aplicativos da web 🖥️, Mobile 📱, Games 🎮, Robotica 🤖, viajar pelo Mundo ✈️, etc ..;<br>
-🎬 Eu amo assistir filmes e sou um grande fã do MCU, DC Comics, e das Séries Transformers e Velozos e Furiosos; <br>
+🤔 Meus interesses são: com desenvolvimento de aplicativos da web 🖥️, Mobile 📱, Games 🎮, Robotica 🤖, viajar pelo Mundo ✈️, etc ..;<br>
+🎬 Eu amo assistir filmes e sou um grande fã do MCU, DC Comics, Transformers e também Velozos Furiosos; <br>
 📫Envie um e-mail para johnfrontend@gmail.com ou envie um ping no LinkedIn para entrar em contato comigo;<br>
 </p>
   <br>
