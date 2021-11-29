@@ -33,12 +33,9 @@
 <!-- <code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/16fccb2de04c31b4fbc7d4034c940f6f2261de35cd7557f393dffd2b9cb3a91a/68747470733a2f2f65752e7377692d70726f6c6f672e6f72672f69636f6e732f737769706c2e706e67"><img height="40" src="https://camo.githubusercontent.com/16fccb2de04c31b4fbc7d4034c940f6f2261de35cd7557f393dffd2b9cb3a91a/68747470733a2f2f65752e7377692d70726f6c6f672e6f72672f69636f6e732f737769706c2e706e67" data-canonical-src="https://eu.swi-prolog.org/icons/swipl.png" style="max-width: 100%;"></a></code></p> -->
   <br>
     <h3>IDE's:</h3>
-  <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"></a></code>
-  
+  <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%;"></a></code>  
   <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code>
-  
   <code><a target="_blank" rel="noopener noreferrer" href="https://media.discordapp.net/attachments/871853660706058323/914878644067922001/Microsoft-Visual-Studio-2019-16.8.5-Crack-Product-Key-Download-2021.png"><img height="40" src="https://media.discordapp.net/attachments/871853660706058323/914878644067922001/Microsoft-Visual-Studio-2019-16.8.5-Crack-Product-Key-Download-2021.png" style="max-width: 100%;"></a></code>
-  
   <code><a target="_blank" rel="noopener noreferrer" href="https://media.discordapp.net/attachments/871853660706058323/896242546735452200/Eclipse-luna.png"><img height="40" src="https://media.discordapp.net/attachments/871853660706058323/896242546735452200/Eclipse-luna.png" style="max-width: 100%;"></a></code>
   
   
