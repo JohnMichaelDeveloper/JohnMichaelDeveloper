@@ -42,8 +42,9 @@
   
 <!--       <p>Visual Studio Code Java Eclipse Node.js </p> -->
   <br>
-    <h3>Ferramenta de Nuvem:</h3>
+    <h3>Ferramenta de Nuvem/ Banco de Dados:</h3>
     <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width: 100%;"></a></code>
+   <code><a target="_blank" rel="noopener noreferrer" href="https://media.discordapp.net/attachments/871853660706058323/914889834538102815/conectores_sqlserver.png"><img height="40" src="https://media.discordapp.net/attachments/871853660706058323/914889834538102815/conectores_sqlserver.png" style="max-width: 100%;"></a></code>
   
 <!--   <img align="height" alt="John-Michael" height="400" width="850" src="https://media.discordapp.net/attachments/856310175161778188/874467730017902602/Programando.gif?width=703&height=411"/>  -->
 </div>
