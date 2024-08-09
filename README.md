@@ -8,12 +8,12 @@
  </p>
 <div>
   <h2>Falando sobre Coisas Pessoais:</h2>
-<p>👨🏽‍💻 Sou estudante na Recode Pro no curso de Desenvolvedor Fullstack e recentemente fui aprovado no curso de Tecnologia de Sistema da Computação para iniciar em 2022 pela UFF; <br>
-  👨‍🎓 Ex-Aluno de Engenharia Civil - 6º Periodo e Técnico Edificações Formado;<br>
-  💼 Trabalhava na área da Construção Civil, em obras de terraplenagem, estradas, pontes e veiculo leve sobre trilhos - exemplo: VLT-Rio; <br>
-🤔 Meus interesses são: com desenvolvimento de aplicativos da web 🖥️, Mobile 📱, Games 🎮, Robotica 🤖, viajar pelo Mundo ✈️, etc ..;<br>
-🎬 Eu amo assistir filmes e sou um grande fã do MCU, DC Comics, Transformers e também Velozos Furiosos; <br>
-📫Envie um e-mail para johnfrontend@gmail.com ou envie um ping no LinkedIn para entrar em contato comigo;<br>
+<p>👨🏽‍💻 Desenvolvedor Fullstack e Analista de Dados, com experiência de dois anos como estagiário na sede do Itaú Unibanco, onde atuei na melhoria de processos, automação e análise de dados; <br>
+  🎓 Estudante de Tecnologia de Sistemas de Computação na UFF (5º período), com formação em Técnico em Edificações e experiência em fiscalização de obras civis;<br>
+  💼 Experiência anterior na MITRA Arquidiocesana de Niterói como Assistente Patrimonial, e na Sondotecnica Engenharia de Solos S.A. como Técnico Edificações IV (Fiscal de Obra Civil), trabalhando em projetos como o Veículo Leve sobre Trilhos (VLT) no Rio de Janeiro; <br>
+🤔 Apaixonado por tecnologia, com habilidades em Python, Java, C#, ASP.Net, HTML5, CSS3, JavaScript, e bancos de dados como SQL Server, PostgreSQL e MySQL. Além disso, possuo experiência com Git, PowerBI, Excel VBA, e metodologias Lean e Qualidade;<br>
+🎯 Buscando oportunidades para atuar como Desenvolvedor Fullstack, Analista de Processos, ou Analista de Dados, e contribuir para projetos inovadores e desafiadores; <br>
+📫 Para entrar em contato, envie um e-mail para johnfrontend@gmail.com ou me encontre no LinkedIn;<br>
 </p>
   <br>
     <h2>⚡ Tecnologias</h2>
