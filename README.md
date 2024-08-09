@@ -7,7 +7,7 @@
   </font></font></em>
  </p>
 <div>
-  <h2>Falando sobre Coisas Pessoais:</h2>
+  <h2>Falando sobre mim:</h2>
 <p>👨🏽‍💻 Desenvolvedor Fullstack e Analista de Dados, com experiência de dois anos como estagiário na sede do Itaú Unibanco, onde atuei na melhoria de processos, automação e análise de dados; <br>
   🎓 Estudante de Tecnologia de Sistemas de Computação na UFF (5º período), com formação em Técnico em Edificações e experiência em fiscalização de obras civis;<br>
   💼 Experiência anterior na MITRA Arquidiocesana de Niterói como Assistente Patrimonial, e na Sondotecnica Engenharia de Solos S.A. como Técnico Edificações IV (Fiscal de Obra Civil), trabalhando em projetos como o Veículo Leve sobre Trilhos (VLT) no Rio de Janeiro; <br>
